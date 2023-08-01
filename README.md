@@ -5,6 +5,6 @@ Clearing out the rubble was hard for the survivors that chose to turn Blackrock 
 
 This mod works well with DIY and Betterbases which allows you to clear a lot of  the misc junk that is around on the office floor to truly clean up this home
 
-<img src="https://github.com/Phaedrus3/ModListJson/raw/main/fort_blackrock2 .jpg" width="80%">
+<img src="https://github.com/Phaedrus3/ModListJson/raw/main/fort_blackrock3.jpg" width="80%">
 <img src="https://github.com/Phaedrus3/ModListJson/raw/main/2nd.png" width="80%">
 <img src="https://github.com/Phaedrus3/ModListJson/raw/main/3rd.png" width="80%">
